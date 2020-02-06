@@ -19,9 +19,9 @@ var countdownfunction = setInterval(function() {
   
   // Output the result in an element with id
   document.getElementById("days").innerHTML = days + " days";
-  document.getElementById("seconds").innerHTML = seconds + " seconds" ;
-  document.getElementById("hours").innerHTML = hours + " hours" ;
-  document.getElementById("minutes").innerHTML = minutes + " minutes" ;
+  document.getElementById("seconds").innerHTML = seconds + " sec" ;
+  document.getElementById("hours").innerHTML = hours + " hrs"  ;
+  document.getElementById("minutes").innerHTML = minutes + " min";
   // If the count down is over, write some text 
   if (distance < 0) {
     clearInterval(countdownfunction);
