@@ -1067,27 +1067,27 @@
 		li#days {
     		font-size: large;
     		font-weight: 900;
-   			color: #00CED1;
+   			color: black;
    			font-family: fantasy;
 		}
 
 		li#hours {
     		font-size: large;
     		font-weight: 900;
-   			color: #00CED1;
+   			color: black;
    			font-family: fantasy;
 		}
 
 		li#minutes {
     		font-size: large;
     		font-weight: 900;
-   			color: #00CED1;
+   			color: black;
    			font-family: fantasy;
 		}
 
 		li#seconds {
     		font-size: large;
     		font-weight: 900;
-   			color: #00CED1	;
+   			color: black	;
    			font-family: fantasy;
 		}
