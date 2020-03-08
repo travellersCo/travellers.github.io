@@ -650,6 +650,7 @@
 				-webkit-touch-callout: none;
 				border: 0;
 				display: inline-block;
+				color: deeppink;
 			}
 
 				#header nav a:before {
@@ -658,7 +659,7 @@
 					-ms-transition: all 0.2s ease-in-out;
 					transition: all 0.2s ease-in-out;
 					border-radius: 100%;
-					border: solid 1px #fff;
+					border: solid 1px deeppink;
 					display: block;
 					font-size: 1.75em;
 					height: 2.5em;
@@ -1066,27 +1067,27 @@
 		li#days {
     		font-size: large;
     		font-weight: 900;
-   			color: deeppink;
+   			color: #00CED1;
    			font-family: fantasy;
 		}
 
 		li#hours {
     		font-size: large;
     		font-weight: 900;
-   			color: deeppink;
+   			color: #00CED1;
    			font-family: fantasy;
 		}
 
 		li#minutes {
     		font-size: large;
     		font-weight: 900;
-   			color: deeppink;
+   			color: #00CED1;
    			font-family: fantasy;
 		}
 
 		li#seconds {
     		font-size: large;
     		font-weight: 900;
-   			color: deeppink;
+   			color: #00CED1	;
    			font-family: fantasy;
 		}
