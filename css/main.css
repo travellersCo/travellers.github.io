@@ -650,7 +650,7 @@
 				-webkit-touch-callout: none;
 				border: 0;
 				display: inline-block;
-				color: deeppink;
+				color: black;
 			}
 
 				#header nav a:before {
@@ -659,7 +659,7 @@
 					-ms-transition: all 0.2s ease-in-out;
 					transition: all 0.2s ease-in-out;
 					border-radius: 100%;
-					border: solid 1px deeppink;
+					border: solid 1px black;
 					display: block;
 					font-size: 1.75em;
 					height: 2.5em;
